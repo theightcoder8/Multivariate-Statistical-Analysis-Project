@@ -7,12 +7,12 @@ This repository contains a project on multivariate statistical analysis, coverin
 - **Excel Calculations**: Calculation of eigenvalues, eigenvectors, covariance matrices, correlation matrices, Mahalanobis distance, and various other multivariate statistical measures in Excel.
 - **Multivariate Analysis**: Analysis of data matrices, including sum of squares and cross-products (SSCP), and interpretation of results using Excel.
 - **MANOVA**: Application of one-way and two-way repeated measures multivariate analysis of variance (MANOVA) for independent groups.
-- **Principal Components Analysis (PCA)**: Theoretical concepts and implementation in Excel.
-- **Canonical Correlation Analysis (CCA)**: Drive 11 - 12th weeks.
-- **Logistic Regression Analysis**: Implementation and interpretation in Excel (10th week).
-- **Discriminant Analysis**: Linear and quadratic discriminant analysis (Drive 8-9th weeks).
-- **Cluster Analysis**: Analysis of clustering techniques and applications (Drive 7th week).
-- **Correspondence Analysis**: Understanding and implementation (6th week).
+- **Principal Components Analysis (PCA)**.
+- **Canonical Correlation Analysis (CCA)**.
+- **Logistic Regression Analysis**: Implementation and interpretation in Excel.
+- **Discriminant Analysis**: Linear and quadratic discriminant analysis.
+- **Cluster Analysis**: Analysis of clustering techniques and applications.
+- **Correspondence Analysis**: Understanding and implementation.
 
 ## Usage
 1. Clone the repository to your local machine.
