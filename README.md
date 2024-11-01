@@ -14,13 +14,5 @@ This repository contains a project on multivariate statistical analysis, coverin
 - **Cluster Analysis**: Analysis of clustering techniques and applications.
 - **Correspondence Analysis**: Understanding and implementation.
 
-## Usage
-1. Clone the repository to your local machine.
-2. Open the Excel files (.xlsx) containing the calculations and analyses.
-3. Follow the instructions provided in each Excel file to understand the calculations and interpretations.
-4. Refer to the README files within each folder for detailed explanations of the concepts and methodologies used.
-
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-/
